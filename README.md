@@ -55,7 +55,7 @@ mongodb://127.0.0.1:27017/website_products
 cd backend
 npm install
 npm run seed    # Load sample products (optional)
-npm start       # Runs on http://localhost:5001
+npm start       # Runs on http://localhost:5002
 ```
 
 ### 3. Frontend Setup
